@@ -1,7 +1,7 @@
 # 💫 About Me:
-**softwareentwickler **********
-fullstack developper**********
-***ki-engering***
+**Softwareentwickler **********
+Fullstack developper**********
+***Ki-engering***
 
 
 ## 🌐 Socials:

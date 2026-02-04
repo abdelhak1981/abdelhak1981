@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ich absolviere zurzeit ein Praktikum bei Medasol GmbH im Bereich Softwareentwicklung. Dabei sammle ich praktische Erfahrungen in der Programmierung, im Testen und in der Weiterentwicklung von Softwareprojekten. Der Umgang mit modernen Technologien und das Lösen technischer Herausforderungen machen mir besonders viel Spaß.
+**softwareentwickler **********fullstack developper*************ki-engering***
 
 
 ## 🌐 Socials:
